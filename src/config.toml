@@ -1,5 +1,5 @@
 # Site settings
-baseurl = "https://example.org/"
+baseurl = "https://vibrant-hamilton-081e58.netlify.com/"
 languageCode = "en-us"
 title = "Hugo Artists Theme"
 theme = "artists"

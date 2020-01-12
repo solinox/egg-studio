@@ -30,3 +30,5 @@ override.tf.json
 
 # Hugo generated static files
 src/public
+# SubModules
+src/themes/*

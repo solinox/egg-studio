@@ -2,7 +2,7 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Hugo Artists Theme"
-theme = "hugo-artists-theme"
+theme = "artists"
 
 [params]
 

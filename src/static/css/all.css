@@ -464,6 +464,9 @@ td, th {
 .icon-pinterest:before {
   content: "\e608"; }
 
+.icon-etsy:before {
+  content: "Etsy"; font-family: Guardian-egypt, Georgia; padding-bottom: 5px; }
+
 .icon-google-plus:before {
   content: "\e604"; }
 
@@ -703,7 +706,7 @@ footer {
           color: rgba(255, 255, 255, 1); }
 
 .face-lockup {
-  max-width: 780px;
+  max-width: 200px;
   display: -webkit-box;
   display: -moz-box;
   display: box;
@@ -1200,12 +1203,12 @@ footer {
   .social-links a {
     display: block;
     border: 2px solid #c99065;
-    height: 50px;
-    width: 50px;
-    line-height: 50px;
+    height: 60px;
+    width: 60px;
+    line-height: 60px;
     color: #c99065;
     border-radius: 50%;
-    font-size: 28px;
+    font-size: 32px;
     margin: 20px;
     position: relative; }
     .social-links a:after {
@@ -1230,6 +1233,10 @@ footer {
       -o-transform: scale(1.5);
       transform: scale(1.5);
       opacity: 0; }
+    .social-links a.icon-etsy {
+      line-height: 57px;
+      font-size: 28px;
+      font-family: Guardian-egyptt, Georgia; }
 
 .bar {
   width: 250px;

@@ -1,0 +1,1 @@
+![Standalone Displays](img/work/proj-3/CrispyIcons-PetrasNargela.jpg)
